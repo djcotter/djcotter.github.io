@@ -1,13 +1,16 @@
 
 #bibbase_header a {
+    display: none;
     text-decoration: none;
 }
 
 #bibbase_header i {
+    display: none;
     width: 16px;
     text-align: center;
     margin-right: 5px;
 }
+
 
 .bibbase_group {
     /* background-color: #D0D0E0; */
@@ -30,7 +33,6 @@
 
 
 img.bibbase_icon {
-  display: none;
     width: 20px;
     max-height: 16px;
     vertical-align: text-top;
@@ -96,3 +98,5 @@ img.bibbase_icon:hover {
 .bibbase_paper_content {
     font-size: smaller;
 }
+
+.
