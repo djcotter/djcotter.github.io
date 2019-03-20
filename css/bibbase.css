@@ -47,9 +47,9 @@ img.bibbase_icon:hover {
 
 
 
-/* span.bibbase_icon_text { */
-/*     display: none; */
-/* } */
+span.bibbase_icon_text {
+    display: none;
+ }
 
 .bibbase_code {
     width: 80%
