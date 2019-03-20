@@ -1,10 +1,10 @@
 
-#bibbase_header a {
+#bibbase_header {
     display: none;
     text-decoration: none;
 }
 
-#bibbase_header i {
+/* #bibbase_header i {
     width: 16px;
     text-align: center;
     margin-right: 5px;
@@ -37,4 +37,4 @@ br.bibbase_paper_content {
 
 .bibbase_group_count {
     display: none;
-}
+} */
