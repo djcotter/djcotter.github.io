@@ -19,8 +19,8 @@ img.bibbase_icon {
 }
 
 .bibbase_group {
-    /* background-color: #D0D0E0; */
-    /* font-style: italic; */
+    background-color: #D0D0E0;
+    font-style: italic;
     margin-top: 10px;
     margin-bottom: 5px;
     cursor: pointer;
