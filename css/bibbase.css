@@ -8,9 +8,17 @@ img.bibbase_icon {
 }
 
 .bibbase_group {
-    font-color: #C41E3A;
+    color: #C41E3A;
     cursor: pointer;
-    font-weight: bold;
+    font-weight: normal;
+}
+
+.bibbase_group::before {
+    border-top: none;
+}
+
+.bibbase_group::after {
+    border-top: none;
 }
 
 /*
